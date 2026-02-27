@@ -1,4 +1,4 @@
-# 📁 test1
+# 📁 TPC Programing CLub example.
 
 > testing repo init
 
@@ -6,12 +6,17 @@
 
 ## 📋 Table of Contents
 
-- [About](#-about)
-- [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [Team](#-team)
-- [License](#-license)
+- [📁 TPC Programing CLub example.](#-tpc-programing-club-example)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📖 About](#-about)
+  - [🚀 Getting Started](#-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Running the Project](#running-the-project)
+  - [📂 Project Structure](#-project-structure)
+  - [🤝 Contributing](#-contributing)
+  - [👥 Team](#-team)
+  - [📄 License](#-license)
 
 ## 📖 About
 
